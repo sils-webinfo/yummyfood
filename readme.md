@@ -17,7 +17,7 @@ HTML Templates
 **meal.html:** the page that displays recipes by the selected meal-type. Once the meal type is selected, the GET will retrieve the data from that category (i.e. dinner recipes, lunch recipes, snacks recipes, etc.) and then use the POST method would allow the user could see the selected data.
 This page also links to the homepage (recipes.html) and includes the recipes search form.
 
-**search.html:** is a search results page that the user is directed to after a query is entered into the search form. The URI of the page will be created from the terms in the query: www.yummyfood.com/search/q=term1+term2. This example has two terms but the query could contain more terms. This page links back to home and meals and also contains a search form. 
+**search.html:** is a search results page that the user is directed to after a query is entered into the search form. The URI of the page will be created from the terms in the query: 'www.yummyfood.com/search/q=term1+term2'. This example has two terms but the query could contain more terms. This page links back to home and meals and also contains a search form. 
 
 **recipe.html:** is the template that represents each individual recipe. It contains the elements that each recipe will have. These elements will be described in the class elements section of this document. recipe.html links to the homepage, the meals page, and contains the search form.
 
