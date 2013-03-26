@@ -41,7 +41,7 @@ search-title: the title of the search which is represented by the keywords in th
 
 Core Attributes - used with <span> tags
 
-ID (reoccurring): the page identifier. Each recipe will be identified by a combination of letters. The homepage will have the identifier "root." Search will be identified as "search+" and then the search terms. And meal with have the id of "meal." Each meal will not have a page because the output will be display within the meal page. 
+ID (recurring): the page identifier. Each recipe will be identified by a combination of letters. The homepage will have the identifier "root." Search will be identified as "search+" and then the search terms. And meal with have the id of "meal." Each meal will not have a page because the output will be display within the meal page. 
 
 Name Attributes:
 
