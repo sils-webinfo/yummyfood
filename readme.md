@@ -54,7 +54,7 @@ description: a description of a page and/or its contents
 
 ###Core Attributes - used with span tags <>
 
-* **ID (reoccurring):** the page identifier. Each recipe will be identified by a combination of letters. The homepage will have the identifier "root." Search will be identified as "search+" and then the search terms. And meal with have the id of "meal." Each meal type will not have a page because the page content will depend on the meal filter.
+* **ID (recurring):** the page identifier. Each recipe will be identified by a combination of letters. The homepage will have the identifier "root." Search will be identified as "search+" and then the search terms. And meal with have the id of "meal." Each meal type will not have a page because the page content will depend on the meal filter.
 
 ###Name Attributes
 
